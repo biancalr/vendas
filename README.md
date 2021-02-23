@@ -2,9 +2,9 @@
 
 Vendas Application Api
 
-<p>This application was built using Spring Boot. Its a RESTFull application developed based on the following code built by: <a href="https://github.com/cursodsousa/curso-spring-boot-especialista.git">Dougllas' Souza</a> Spring 
+<p>This application was built using Spring Boot. Besides, it was also developed using Spring Security plataform. Its a RESTFull application developed based on the following code built by: <a href="https://github.com/cursodsousa/curso-spring-boot-especialista.git">Dougllas' Souza</a> Spring 
 course at <a href="https://www.udemy.com/course/spring-boot-expert/">Udemy</a>.
-Besides, this application was also developed using Spring Security plataform.</p>
+</p>
 
 
 <p>In this application, it's able to find the following tecnologies:</p>
